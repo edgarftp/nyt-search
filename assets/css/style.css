@@ -1,4 +1,23 @@
-container{
-    padding: 5px;
-    padding-top: 5px;
+#topArt{
+    background-color:rgb(2, 2, 68);
+    color:#ffffff;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+<<<<<<< HEAD
+#topResults{
+border-color: solid rgb(2,2,68);
+=======
+.navbar-brand {
+    margin-right: 10px;
+}
+
+#title-ny {
+    margin-bottom: 15px;
+    background-color: blueviolet !important;
+    color: bisque;
+    text-align: center;
+>>>>>>> 9d01893f86272ddbee7cc191dd6323c9f9e14f03
 }
