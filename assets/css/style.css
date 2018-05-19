@@ -1,0 +1,11 @@
+#topArt{
+    background-color:rgb(2, 2, 68);
+    color:#ffffff;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+#topResults{
+border-color: solid rgb(2,2,68);
+}
