@@ -12,7 +12,7 @@
 </head>
 <body>
 <nav class="navbar navbar-light bg-light">
-    <a class="navbar-brand" href="#">New York Times Search</a>
+    <a class="navbar-brand" href="#"><i class="fas fa-newspaper" ></i>New York Times Search</a>
 </nav>
 <div class="container">
     <form>
@@ -20,21 +20,26 @@
               <label for="exampleInputEmail1">Search Term</label>
               <input type="string" class="form-control" id="search-term" aria-describedby="emailHelp" placeholder="Enter search term">
             </div>
-            <div id="numberRecords"class="form-group">
-              <label for="numberOfRecordsToRetrive">Number of Records to retrieve</label>
-              <input type="string" class="form-control" id="number-records" placeholder="how many?">
-            </div>
+            <select class="form-control form-control-lg">
+                <option>1</option>
+                <option>5</option>
+                <option>10</option>
+              </select>
             <div id="start-year"class="form-group">
                     <label for="startYear">Start Year</label>
                     <input type="strimg" class="form-control" id="startYear" placeholder="When to start?">
                   </div>
+
             <div id="end-year"class="form-group">
                     <label for="endYear">End Year</label>
                     <input type="string" class="form-control" id="endtYear" placeholder="When to end?">
                 </div>
-            <button type="Search" id= "search" class="btn btn-primary">Search</button>  
-            <button type="clear" id= "clear" class="btn btn-primary">Clear results</button>
+            <button type="Search" id= "search" class="btn btn-primary"> <i class="fas fa-search"></i> Search</button>  
+            <button type="clear" id= "clear" class="btn btn-primary"><i class="far fa-trash-alt"></i>Clear results</button>
           </form>
+</div>
+<div class="container">
+    
 </div>
   
 </body>
