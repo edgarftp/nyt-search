@@ -1,4 +1,6 @@
-# New York Times Article Search - Phase 02
+# New York Times Article Search
+
+* A search engine for New York Times. Uses HTML, CSS, JavaScript, jQuery, AJAX API Calls
 
 ## Front-End Team - Diani & Raquel
 
