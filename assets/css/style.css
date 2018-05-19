@@ -6,18 +6,15 @@
     border-radius: 10px;
 }
 
-<<<<<<< HEAD
 #topResults{
 border-color: solid rgb(2,2,68);
-=======
-.navbar-brand {
-    margin-right: 10px;
 }
 
 #title-ny {
+    background-color:rgb(2, 2, 68);
+    color:#ffffff;
+    padding: 10px;
     margin-bottom: 15px;
-    background-color: blueviolet !important;
-    color: bisque;
+    border-radius: 10px;
     text-align: center;
->>>>>>> 9d01893f86272ddbee7cc191dd6323c9f9e14f03
 }
