@@ -6,3 +6,10 @@ container{
 .navbar-brand {
     margin-right: 10px;
 }
+
+#title-ny {
+    margin-bottom: 15px;
+    background-color: blueviolet !important;
+    color: bisque;
+    text-align: center;
+}
