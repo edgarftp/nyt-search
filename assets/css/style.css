@@ -3,13 +3,13 @@
     color:#ffffff;
     margin-top: 15px;
     padding-top: 10px;
+    padding-bottom: 10px;
     border-radius: 10px;
 }
 
-<<<<<<< HEAD
 #topResults{
 border-color: solid rgb(2,2,68);
-=======
+}
 .navbar-brand {
     margin-right: 10px;
 }
@@ -19,5 +19,8 @@ border-color: solid rgb(2,2,68);
     background-color: blueviolet !important;
     color: bisque;
     text-align: center;
->>>>>>> 9d01893f86272ddbee7cc191dd6323c9f9e14f03
+}
+
+hide{
+    display: none !important;
 }
