@@ -15,9 +15,11 @@ border-color: solid rgb(2,2,68);
 }
 
 #title-ny {
+    background-color:rgb(2, 2, 68);
+    color:#ffffff;
+    padding: 10px;
     margin-bottom: 15px;
-    background-color: blueviolet !important;
-    color: bisque;
+    border-radius: 10px;
     text-align: center;
 }
 
